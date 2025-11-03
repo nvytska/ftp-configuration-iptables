@@ -1,0 +1,8 @@
+Link on chat: https://chatgpt.com/share/6908e585-29d8-8012-a290-bf54bcd4c386
+
+1. what is gecos in adduser linux?
+2. so, if i need to add user with some specific password should i use gecos?
+3. so what does the --gecos flag is? for what should i use it?
+4. how to make some files avaliable via ftp?
+5. how to define space in regular exprs in bash?
+6. what is the difference between -I and -A options in iptables?
