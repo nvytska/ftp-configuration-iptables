@@ -1,4 +1,4 @@
-# Assignment 4: 
+# Assignment 4: FTP & iptables
 Student: Nataliia Vytska  
 
 Group: CS420 Group 2
