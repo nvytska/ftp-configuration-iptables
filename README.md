@@ -11,7 +11,8 @@ This project sets up a secure FTP server and controlled access, using iptables a
 
 The best approach is:
 
-**Instalation:**
+**Installation:**
+
 0. Clone repo: ```git clone https://github.com/nvytska/ftp-configuration-iptables.git```
 1. Create new clean VM: ```multipass launch --name ftp-lab```.
 2. Mount: ```multipass mount ./ftp-configuration-iptables ftp-lab:/home/ubuntu/ftp-configuration-iptables```.
